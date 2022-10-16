@@ -1,0 +1,91 @@
+/* Still trying to change the background smh */
+html{
+    background-color:hsl(239, 57, 00);
+}
+body{
+    font-family: Rubik;
+    align-content: center;
+    background-color:hsl(239, 57, 00);
+}
+
+textarea{
+    border-radius: 5px;
+    border-color:lightgray;
+    
+}
+
+#addC{
+    height: 70px;
+    width: 450px;
+}
+
+p{
+    color:gray;
+    font-size: 16px;
+}
+
+
+img{
+    height: 30px;
+    width: 30px;
+}
+
+/* The up and down vote button  */
+div{
+    background-color: hsl(238, 40%, 52%);
+    align-content: center
+}
+.plus{
+    height: 10px;
+    width: 10px;
+}
+
+.minus{
+    height: 5px;
+    width: 10px;
+}
+
+#C1, #C2{
+border-radius: 5px;
+text-align: left;
+display:center;
+background-color:bisque;
+width: 700px;
+height: 150px;
+padding: 50px;
+margin: 20px;
+margin-left: 20%;
+padding-top: 12.5px;;
+}
+
+#C3, #C4{
+    border-radius: 5px;
+text-align: left;
+display:center;
+background-color:bisque;
+width: 500px;
+height: 150px;
+padding: 50px;
+margin: 20px;
+margin-left: 34%;
+padding-top: 12.5px;;
+}
+
+#Cbox{
+    border-radius: 5px;
+    text-align: center;
+    display:center;
+    background-color:bisque;
+    width: 500px;
+    height:70px;
+    padding: 50px;
+    margin: 20px;
+    }
+
+    h3{
+        text-align: right;
+        display:inline-block;
+        margin-right:10px;
+        margin-left:10px;
+        padding-bottom:5px;
+    }
